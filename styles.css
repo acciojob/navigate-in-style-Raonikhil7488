@@ -1,9 +1,9 @@
-.container{
+.nav{
 background-color:#D3D3D3;
     padding:10px;
   }
   
-.container ul{
+.nav ul{
     display:flex;
     text-decoration:none;
     list-style:none;
