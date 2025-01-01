@@ -3,11 +3,7 @@
             padding: 10px;
         }
 
-        .nav-bar ul {
-            list-style: none;
-            margin: 0;
-            padding: 0;
-        }
+       
 
         .nav-bar ul li {
             display: inline; 
@@ -19,6 +15,4 @@
             color: black; 
         }
 
-        .nav-bar ul li a:hover {
-            text-decoration: underline; 
-        }
+       
